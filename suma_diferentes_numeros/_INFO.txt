@@ -1,0 +1,42 @@
+Suma De Números Diferentes
+
+Fecha limite:
+19 Julio 2020
+Estatus:
+Pendiente
+Nivel:
+Básico
+Premium:
+True 👻
+
+Desarrolla un programa en Python que nos permita sumar 3 números enteros diferentes.
+
+El programa debe cumplir con los siguientes requerimientos.
+
+    El usuarios podrá ingresar vía teclado 3 números enteros.
+    El programaba deberá mostrar en consola la suma de todos los números diferentes ingresados por el usuarios.
+    En caso todos los números sean iguales, se deberá mostrar 0.
+
+Ejemplo.
+
+Ingresa un número: 3
+Ingresa un número: 3
+Ingresa un número: 4
+Resultado: 7
+
+Ingresa un número: 1
+Ingresa un número: 2
+Ingresa un número: 3
+Resultado: 6
+
+Ingresa un número: 4
+Ingresa un número: 4
+Ingresa un número: 3
+Resultado: 3
+
+Ingresa un número: 1
+Ingresa un número: 1
+Ingresa un número: 1
+Resultado: 0
+
+Ayuda: Hay muchas formas de resolver el problema, yo te aconsejo que te vayas a lo más simple.
