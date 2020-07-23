@@ -1,0 +1,18 @@
+Fecha Actual
+
+Fecha limite: 27 Julio 2020
+Estatus: Pendiente
+Nivel: Básico
+Premium: True 👻
+Desarrolla un programa el cual nos permita visualizar en consola la fecha actual.
+
+El mensaje debe contar con la siguiente estructura.
+La fecha actual es: <hora>:<minuto> del <día> de <mes> del <año>
+
+Ejemplo.
+
+>>> python main.py
+10:25 del 1 de Junio del 2020
+
+>>> python main.py
+17:59 del 15 de Julio del 2021

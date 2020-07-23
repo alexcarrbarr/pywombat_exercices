@@ -1,0 +1,28 @@
+Canción Favorita
+
+Fecha limite: 20 Julio 2020
+Estatus: Pendiente
+Nivel: Básico
+Premium: True 👻
+Hay ocasiones en las cuales queremos escuchar algo pero no sabemos exactamente qué. Es por que esta vez será necesario desarrolles un script el cual nos permita obtener, de forma aleatoria, una de nuestras canciones favoritas.
+
+El script debe cumplir con los siguientes requerimientos.
+
+El usuario podrá ingresar, vía teclado, 10 de canciones de sus canciones favoritas.
+El script debe mostrar en consola, de forma aleatoria, una de las canciones del usuario.
+
+Ejemplo.
+
+Ingresa una canción: One
+Ingresa una canción: Hotel california
+Ingresa una canción: Horse without name
+Ingresa una canción: Through the fire and flames
+Ingresa una canción: Hunting High and low
+Ingresa una canción: Emerald Sword
+Ingresa una canción: We are not gonna take it
+Ingresa una canción: Hail to King the king
+Ingresa una canción: A little piece of haven
+Ingresa una canción: Take on me
+
+Debes escuchar ahora: Emerald Sword
+Reto: Si quieres que tu script sea mucho más fácil de usar puedes leer las canciones de un stdin o un archivo si así lo deseas.
