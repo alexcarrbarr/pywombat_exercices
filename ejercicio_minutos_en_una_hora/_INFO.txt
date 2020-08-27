@@ -1,0 +1,20 @@
+Minutos En Una Hora
+
+Desarrolla un programa el cual nos permita conocer todos los minutos existente en una terminada cantidad de horas. ⏰
+
+El programa debe cumplir con los siguientes requerimientos.
+
+    El usuario podrá ingresar, vía teclado, un número entero el cual hace referencia a la cantidad de horas.
+    El programa debe validar que la cantidad de horas ingresadas sea mayor a 0 y menor a 100.
+        En caso la cantidad de horas no cumpla con la validación el programa finalizar.
+    El programa debe mostrar en consola la cantidad de minutos que existen en las horas ingresadas.
+
+Ejemplo.
+
+Ingrese una cantidad de horas: 10
+Existen 600 minutos en 10 horas
+
+Ingrese una cantidad de horas: 1
+Existen 60 minutos en 1 hora.
+
+Deseado: El programa debe mostrar en su salida la palabra horas en dado caso el usuarios haya ingresado un número mayor a 1.
